@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "name": "LD01 LOUNGE CHAIR",
+        "price": 200,
+        "image": "image/1.png"
+    },
+
+    {
+        "id": 2,
+        "name": "LD02 LOUNGE CHAIR",
+        "price": 200,
+        "image": "image/2.png"
+    },
+    {
+        "id": 3,
+        "name": "LD03 LOUNGE CHAIR",
+        "price": 200,
+        "image": "image/3.png"
+    }
+]
